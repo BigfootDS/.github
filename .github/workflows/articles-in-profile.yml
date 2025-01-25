@@ -13,3 +13,4 @@ jobs:
               with: 
                 max_post_count: "5"
                 feed_list: "https://bigfootds.com/rss"
+                readme_path: ./profile/README.md
