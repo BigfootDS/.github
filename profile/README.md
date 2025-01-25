@@ -17,5 +17,16 @@
 <a href="https://www.youtube.com/@bigfootdesignstudios" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="bigfootdesignstudios" height="30" width="40" /></a>
 <a href="https://store.steampowered.com/developer/bigfootds" target="blank"><img align="center" src="./assets/Steam_icon_logo.svg" alt="https://bigfootds.com/rss" height="30" width="40" /></a>
 <a href="https://bigfootds.com/rss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://bigfootds.com/rss" height="30" width="40" /></a>
-
 </p>
+
+### Commercial Projects
+
+- [Planet Protector VR, a virtual reality arcade-style game. Basically Space Invaders but in VR.](https://store.steampowered.com/app/656320/Planet_Protector_VR/)
+
+
+### FOSS Projects
+
+- [SuperCamo, a file-based alternative to MongoDB.](https://github.com/BigfootDS/supercamo)
+- [Unity Semver Updater, a helper package for project versioning used in CI/CD tools.](https://github.com/BigfootDS/unity-semver-updater)
+- [NPM Compliance Helper, a helper package for project licensing and compliance in CI/CD/CC tools.](https://github.com/BigfootDS/npm-compliance-helper)
+- [ReactJS GamePad Utilities, a foundational package for game projects built with web technologies.](https://github.com/BigfootDS/react-gamepad-utils)
