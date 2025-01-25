@@ -3,6 +3,8 @@
 
 ### Latest Articles
 <!-- BLOG-POST-LIST:START -->
+- [2024 Year In Review](https://bigfootds.com/news/2024-12-31-2024-year-in-review/)
+- [Website Overhaul](https://bigfootds.com/news/2024-12-29-website-overhaul/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="center">BigfootDS On Other Platforms</h3>
