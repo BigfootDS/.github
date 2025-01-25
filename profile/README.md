@@ -14,6 +14,6 @@
 <a href="https://fb.com/bigfootds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bigfootds" height="30" width="40" /></a>
 <a href="https://instagram.com/bigfootds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bigfootds" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@bigfootdesignstudios" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="bigfootdesignstudios" height="30" width="40" /></a>
-<a href="/https://bigfootds.com/rss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://bigfootds.com/rss" height="30" width="40" /></a>
+<a href="https://bigfootds.com/rss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://bigfootds.com/rss" height="30" width="40" /></a>
 
 </p>
