@@ -3,9 +3,9 @@
 
 ### Latest Articles
 <!-- BLOG-POST-LIST:START -->
-- [2025 Year In Review](https://bigfootds.com/news/2025-12-31-2025-year-in-review/)
-- [2024 Year In Review](https://bigfootds.com/news/2024-12-31-2024-year-in-review/)
-- [Website Overhaul](https://bigfootds.com/news/2024-12-29-website-overhaul/)
+- [2025 Year In Review](https://bigfootds.com/news/6abc93e9f576bac82f5f8fe6/)
+- [2024 Year In Review](https://bigfootds.com/news/6abc934df576bac82f5f8fe5/)
+- [Website Overhaul](https://bigfootds.com/news/6abc9266f576bac82f5f8fe3/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="center">BigfootDS On Other Platforms</h3>
